@@ -11,7 +11,7 @@ import JobDetail from './pages/JobDetail';
 import PostJob from './pages/PostJob';
 import Dashboard from './pages/Dashboard';
 import NotificationsPage from './pages/NotificationsPage';
-import JobSeekerDashboard from './pages/JobSeekerDashboard';
+import JobSeekerDashboard from './pages/JobSeekerDashboard'; 
 import EmployerDashboard from './pages/EmployerDashboard';
 
 // Protected route component
