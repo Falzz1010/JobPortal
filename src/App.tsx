@@ -28,7 +28,7 @@ const ProtectedRoute = ({ children }: { children: React.ReactNode }) => {
     return <Navigate to="/signin" />;
   }
   
-  return <>{children}</>;
+  return <>{children}</>; 
 };
 
 // Company only route
